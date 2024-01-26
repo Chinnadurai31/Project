@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: chinnadurai123/your-repository-name:latest
+          tags: chinnadurai123/testing_github_action:latest
