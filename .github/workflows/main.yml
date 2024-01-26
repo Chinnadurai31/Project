@@ -16,4 +16,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: chinnadurai31/git push -u origin main
+          tags: chinnadurai31/testing_github_action
